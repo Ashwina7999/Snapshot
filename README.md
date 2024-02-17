@@ -1,6 +1,6 @@
 # Snapshot Application
 
-This project was created with React and other Front End Tecgnologies [Project Link](https://ashwina7999.github.io/Snapshot/).
+This project was created with React and other Front End Technologies [Project Link](https://ashwina7999.github.io/Snapshot/).
 
 ## Available Scripts
 
