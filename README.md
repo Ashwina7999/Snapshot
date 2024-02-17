@@ -1,6 +1,6 @@
 # Snapshot Application
 
-This project was created with React JS [Project Link](https://ashwina7999.github.io/Snapshot/) (suitable for Desktop & Mobile view)
+This project was created with React JS and you can view here [Project Link](https://ashwina7999.github.io/Snapshot/) (suitable for Desktop & Mobile view)
 
 A Snapshot application that display's images based on category and user search
 
