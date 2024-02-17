@@ -8,8 +8,6 @@ A Snapshot application that display's images based on category and user search
 
 ![Screenshot (1075)](https://github.com/Ashwina7999/Snapshot/assets/59051731/c258d327-7283-465c-8933-cbc572df375b)
 
-![Screenshot (1077)](https://github.com/Ashwina7999/Snapshot/assets/59051731/9d7d21a2-3603-436c-b5d2-3e9063eb253c)
-
 ![Screenshot (1078)](https://github.com/Ashwina7999/Snapshot/assets/59051731/781d9ca3-1b1d-450e-974a-9cfcb4a74a17)
 
 ![Screenshot (1079)](https://github.com/Ashwina7999/Snapshot/assets/59051731/8bc6b46d-6750-4a0d-b91d-85fc5cba5599)
